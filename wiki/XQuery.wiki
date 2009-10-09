@@ -1,0 +1,13 @@
+This page is an effort to understand and learn XQuery from scratch for the person who has absolutely no experience on this new kind of technology.
+
+= Introduction =
+
+XQuery is an language used to interact with XML files in order to transform it into customized formats and also to extract meaningful information from it.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
